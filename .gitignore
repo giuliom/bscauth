@@ -1,0 +1,56 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Builds
+bin/
+intermediate/
+output/
+debug/
+release/
+LibDebug/
+LibRelease/
+build/
+
+# Cmake
+solution/
+_deps/
+build/
+
+# Visual Studio 2022 database file
+
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio 2022 Options file
+*.suo
+
+# Visual Studio 2022 Settings
+.vs
+
+.DS_Store
